@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Calculadora {
+public class App {
     public static void main(String[] args) throws Exception {
         Scanner leitor = new Scanner(System.in);
 
@@ -80,4 +80,5 @@ public class Calculadora {
     }leitor.close();
 }
 }
+
 
